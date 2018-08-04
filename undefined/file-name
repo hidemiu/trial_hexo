@@ -11,7 +11,7 @@
 <meta name="keywords" content="first post">
 <meta property="og:type" content="article">
 <meta property="og:title" content="file-name">
-<meta property="og:url" content="https://hidemiu.github.io/trial_hexo.git/undefined/file-name">
+<meta property="og:url" content="https://hidemiu.github.io/trial_hexo/undefined/file-name">
 <meta property="og:site_name" content="Trial_Hexo_by_hidemiura">
 <meta property="og:description" content="This is a first post and it is for trial heading 1heading 2heading 3heading 4 goaaaaa, goaaaaa">
 <meta property="og:locale" content="default">
@@ -59,7 +59,7 @@
         <a id="nav-search-btn" class="nav-icon" title="Search"></a>
       </nav>
       <div id="search-form-wrap">
-        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://hidemiu.github.io/trial_hexo.git"></form>
+        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://hidemiu.github.io/trial_hexo"></form>
       </div>
     </div>
   </div>
@@ -94,7 +94,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="https://hidemiu.github.io/trial_hexo.git/undefined/file-name" data-id="cjkfdk6lx0002tiy7j5ies1gk" class="article-share-link">Share</a>
+      <a data-url="https://hidemiu.github.io/trial_hexo/undefined/file-name" data-id="cjkfdloda0000u1y722uqsqlw" class="article-share-link">Share</a>
       
       
   <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/trial_hexo/tags/first-post/">first post</a></li></ul>
