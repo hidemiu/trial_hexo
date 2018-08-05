@@ -7,18 +7,18 @@
   
   <title>file-name | Trial_Hexo_by_hidemiura</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="This is a first post and it is for trial heading 1heading 2heading 3heading 4 Bold goaaaaa, goaaaaa Italic">
+  <meta name="description" content="This is a first post and it is for trial heading 1heading 2heading 3heading 4 Bold goaaaaa, goaaaaa Italic one underscore">
 <meta name="keywords" content="first post">
 <meta property="og:type" content="article">
 <meta property="og:title" content="file-name">
 <meta property="og:url" content="https://hidemiu.github.io/trial_hexo/undefined/file-name">
 <meta property="og:site_name" content="Trial_Hexo_by_hidemiura">
-<meta property="og:description" content="This is a first post and it is for trial heading 1heading 2heading 3heading 4 Bold goaaaaa, goaaaaa Italic">
+<meta property="og:description" content="This is a first post and it is for trial heading 1heading 2heading 3heading 4 Bold goaaaaa, goaaaaa Italic one underscore">
 <meta property="og:locale" content="default">
-<meta property="og:updated_time" content="2018-08-05T13:37:51.000Z">
+<meta property="og:updated_time" content="2018-08-05T14:30:20.000Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="file-name">
-<meta name="twitter:description" content="This is a first post and it is for trial heading 1heading 2heading 3heading 4 Bold goaaaaa, goaaaaa Italic">
+<meta name="twitter:description" content="This is a first post and it is for trial heading 1heading 2heading 3heading 4 Bold goaaaaa, goaaaaa Italic one underscore">
   
     <link rel="alternate" href="/trial_hexo/atom.xml" title="Trial_Hexo_by_hidemiura" type="application/atom+xml">
   
@@ -92,11 +92,12 @@
 <p><strong>Bold</strong></p>
 <p>goaaaaa, goaaaaa</p>
 <p><em>Italic</em></p>
+<p><em>one underscore</em></p>
 
       
     </div>
     <footer class="article-footer">
-      <a data-url="https://hidemiu.github.io/trial_hexo/undefined/file-name" data-id="cjkgwdxh60000rky7kkrn7x52" class="article-share-link">Share</a>
+      <a data-url="https://hidemiu.github.io/trial_hexo/undefined/file-name" data-id="cjkgy474t00019ey7btjqe7ag" class="article-share-link">Share</a>
       
       
   <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/trial_hexo/tags/first-post/">first post</a></li></ul>
