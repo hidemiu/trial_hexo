@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://hexo_trial_hidemiu.netlify.com
+url: https://trialhexohidemiu.netlify.com/
 root: /
 permalink: :posts/:title
 permalink_defaults:
